@@ -21,21 +21,21 @@
 以F1值评价实体抽取结果，考虑到裁判结果、抗辩理由的实体长度较长，难以抽取，在测试集取得77.5%的F1值已能说明模型能有较好的抽取效果。
 验证集结果：
 
-
+![Demo image](https://github.com/vidal-source/Intellectual-Property-Knowledge-Graph/blob/main/%E7%BB%93%E6%9E%9C/valid.png)
 
 测试集结果：
 
-
+![Demo image](https://github.com/vidal-source/Intellectual-Property-Knowledge-Graph/blob/main/%E7%BB%93%E6%9E%9C/test.png)
 
 ### 知识图谱绘制
 
 抽取200个节点的结果：
 
-
+![Demo image](https://github.com/vidal-source/Intellectual-Property-Knowledge-Graph/blob/main/%E7%BB%93%E6%9E%9C/result200.png)
 
 抽取1000个节点的结果：
 
-
+![Demo image](https://github.com/vidal-source/Intellectual-Property-Knowledge-Graph/blob/main/%E7%BB%93%E6%9E%9C/result1000.png)
 
 ### 引文
 
