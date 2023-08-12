@@ -15,7 +15,7 @@
 
 ### 模型训练
 
-​		利用doccano标注后的数据可直接利用Paddlenlp**[3]**自然语言处理库的UIE信息抽取统一框架进行训练。对标注数据按照8：1：1的比例划分训练集、验证集和测试集。训练的参数基本参照UIE文档"4.3模型微调"中的参数，模型训练结果保存在"./PaddleNLP-develop/model_zoo/uie/checkpoint"文件夹中。
+​		利用doccano标注后的数据可直接利用Paddlenlp[3]自然语言处理库的UIE信息抽取统一框架进行训练。对标注数据按照8：1：1的比例划分训练集、验证集和测试集。训练的参数基本参照UIE文档"4.3模型微调"中的参数，模型训练结果保存在"./PaddleNLP-develop/model_zoo/uie/checkpoint"文件夹中。
 
 ### 模型评估
 
