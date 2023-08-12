@@ -51,7 +51,9 @@
     Xu Liang},
   year={2018},
 }
+
 [2] DENG Y, SHEN Y, YANG M, et al. Knowledge as a bridge: Improving cross-domain answer selection with external knowledge[C]//Proceedings of the 29th International Conference on Computational Linguistics（2022）
+
 [3] @ misc{=paddlenlp,
     title={PaddleNLP: An Easy-to-use and High Performance NLP Library},
     author={PaddleNLP Contributors},
